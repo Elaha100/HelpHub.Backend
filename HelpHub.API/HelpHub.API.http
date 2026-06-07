@@ -1,0 +1,6 @@
+@HelpHub.API_HostAddress = http://localhost:5206
+
+GET {{HelpHub.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
